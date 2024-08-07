@@ -10,6 +10,5 @@ public class PatientDto {
 	private String name;
 	private String address;
 	private String medicalHistory;
-	private String wahh;
 	
 }
